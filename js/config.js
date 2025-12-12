@@ -39,7 +39,7 @@ let respecConfig = {
 //    ],
   github: "https://github.com/VNG-Realisatie/MijnTaken-Respec",
 
-    maxTocLevel: 2,
+//    maxTocLevel: 2,
 
   // Creëer PDF en link deze aan de file in de header van het html document (optioneel). Het is (nog) niet mogelijk hier een globale property van te maken:
   alternateFormats: [
