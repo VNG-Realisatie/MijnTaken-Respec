@@ -1,3 +1,3 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| VNG Realisatie | Ronald Jobse |
+| Project Omnichannel - MijnServices / Team Dienstverlening | Ronald Jobse |
